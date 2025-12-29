@@ -1,4 +1,4 @@
-# Welcome To MyGiHub 
+# Welcome To MyGitHub 
 
 ### 👨‍💻 Software Dev | IT support | Cybersecurity | Cloud Computing
 
