@@ -91,10 +91,6 @@ Complete relational database solution with advanced automation
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dieudo2024&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dieudo2024&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dieudo2024&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
 ---
