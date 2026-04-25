@@ -104,7 +104,7 @@ Complete relational database solution with advanced automation
 ---
 
 **Core Competencies**
-- Data Structures & Algorithms (C#, Java)
+- Data Structures & Algorithms (C#, Java, Python)
 - Debugging & Code Documentation
 - Network Administration (DHCP, DNS, TCP/IP, Routing)
 - Cloud Computing (Azure, Google Cloud)
