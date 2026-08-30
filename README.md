@@ -40,12 +40,14 @@ Modern, feature-rich e-commerce platform with seamless user experience
 
 ---
 
-### 🔐 [SIEM Project](https://github.com/dieudo2024/SIEM_Project)
-**Tech Stack:** Bash, Linux, Security Tooling | **Focus:** Security Monitoring & Incident Detection
+### 🍕 Pizzeria Database Management System
+**Tech Stack:** SQL, MySQL | **Focus:** Database Design & Optimization
 
-Security monitoring and incident detection project
-- **Focus Areas:** Log aggregation, alerting, and threat visibility
-- **Goal:** Strengthen detection and response capabilities in practical environments
+Complete relational database solution with advanced automation
+- **Database Design:** Comprehensive ERD with Referential Integrity using Foreign Keys, Constraints, and Cascades
+- **Automation:** Implemented Stored Procedures, Functions, and Triggers for validation and performance optimization
+- **Security:** Detailed Authentication and Authorization controls with distinct user roles (Manager, Cashier, Cook)
+- **Reliability:** Essential Backup and Restore operations for comprehensive disaster recovery
 
 ---
 
